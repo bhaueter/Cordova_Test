@@ -20,6 +20,11 @@ module.exports = [
         "merges": [
             "navigator.notification"
         ]
+    },
+    {
+        "file": "plugins/com.chariotsolutions.nfc.plugin/www/phonegap-nfc.js",
+        "id": "com.chariotsolutions.nfc.plugin.NFC",
+        "runs": true
     }
 ];
 module.exports.metadata = 
@@ -27,7 +32,8 @@ module.exports.metadata =
 {
     "org.apache.cordova.geolocation": "0.3.10-dev",
     "org.apache.cordova.device": "0.2.12-dev",
-    "org.apache.cordova.dialogs": "0.2.10-dev"
+    "org.apache.cordova.dialogs": "0.2.10-dev",
+    "com.chariotsolutions.nfc.plugin": "0.5.1"
 }
 // BOTTOM OF METADATA
 });

@@ -262,8 +262,11 @@ D:\Data\BFH\Repos\Git\Cordova_Test\hello\HTML5Application\platforms\android\asse
 D:\Data\BFH\Repos\Git\Cordova_Test\hello\HTML5Application\platforms\android\assets\www\js\libs\jquery-mobile\images\icons-svg\user-white.svg \
 D:\Data\BFH\Repos\Git\Cordova_Test\hello\HTML5Application\platforms\android\assets\www\js\libs\jquery-mobile\images\icons-svg\video-black.svg \
 D:\Data\BFH\Repos\Git\Cordova_Test\hello\HTML5Application\platforms\android\assets\www\js\libs\jquery-mobile\images\icons-svg\video-white.svg \
+D:\Data\BFH\Repos\Git\Cordova_Test\hello\HTML5Application\platforms\android\assets\www\plugins\com.chariotsolutions.nfc.plugin \
 D:\Data\BFH\Repos\Git\Cordova_Test\hello\HTML5Application\platforms\android\assets\www\plugins\org.apache.cordova.device \
 D:\Data\BFH\Repos\Git\Cordova_Test\hello\HTML5Application\platforms\android\assets\www\plugins\org.apache.cordova.dialogs \
+D:\Data\BFH\Repos\Git\Cordova_Test\hello\HTML5Application\platforms\android\assets\www\plugins\com.chariotsolutions.nfc.plugin\www \
+D:\Data\BFH\Repos\Git\Cordova_Test\hello\HTML5Application\platforms\android\assets\www\plugins\com.chariotsolutions.nfc.plugin\www\phonegap-nfc.js \
 D:\Data\BFH\Repos\Git\Cordova_Test\hello\HTML5Application\platforms\android\assets\www\plugins\org.apache.cordova.device\www \
 D:\Data\BFH\Repos\Git\Cordova_Test\hello\HTML5Application\platforms\android\assets\www\plugins\org.apache.cordova.device\www\device.js \
 D:\Data\BFH\Repos\Git\Cordova_Test\hello\HTML5Application\platforms\android\assets\www\plugins\org.apache.cordova.dialogs\www \
